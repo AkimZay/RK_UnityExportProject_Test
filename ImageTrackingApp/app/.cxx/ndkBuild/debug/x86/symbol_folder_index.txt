@@ -1,0 +1,1 @@
+C:\Users\Akim\Documents\Work\RK_UnityExportProject_Test\ImageTrackingApp\app\build\intermediates\ndkBuild\debug\obj\local\x86
